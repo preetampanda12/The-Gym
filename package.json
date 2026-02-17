@@ -1,0 +1,13 @@
+{
+  "name": "the-gym",
+  "version": "1.0.0",
+  "description": "Forge Yourself - The Gym Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y http-server .",
+    "deploy": "npx wrangler pages deploy ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
